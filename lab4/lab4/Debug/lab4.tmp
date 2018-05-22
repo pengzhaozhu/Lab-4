@@ -1,0 +1,51 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\Debug\lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab4.map</FILE>
+  <FILE>lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>40</LINE></MAIN>
+  <EDGE_ISR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>143</LINE></EDGE_ISR>
+  <DEBOUNCE_TIMER_ISR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>172</LINE></DEBOUNCE_TIMER_ISR>
+  <BLINK_ISR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>212</LINE></BLINK_ISR>
+  <Table><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>33</LINE></Table>
+  <Table1><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>34</LINE></Table1>
+  <Table2><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>35</LINE></Table2>
+  <Table3><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>36</LINE></Table3>
+  <CLK><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>303</LINE></CLK>
+  <DEBOUNCE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>105</LINE></DEBOUNCE>
+  <PWM><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>64</LINE></PWM>
+  <BLINK><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>126</LINE></BLINK>
+  <DONE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>61</LINE></DONE>
+  <NOT_ACTIVE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>196</LINE></NOT_ACTIVE>
+  <STORE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>231</LINE></STORE>
+  <STORE1><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>236</LINE></STORE1>
+  <STORE2><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>241</LINE></STORE2>
+  <STORE3><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>246</LINE></STORE3>
+  <CHECK><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>250</LINE></CHECK>
+  <LOAD><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>256</LINE></LOAD>
+  <RESET><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>280</LINE></RESET>
+  <SKIP><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>283</LINE></SKIP>
+  <NSTABLE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>308</LINE></NSTABLE>
+  <STABLE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 4\lab4\lab4\lab4e.asm</FILE><LINE>314</LINE></STABLE>
+ </LABELS>
+</ASSEMBLER_INFO>
